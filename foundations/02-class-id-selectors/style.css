@@ -1,0 +1,20 @@
+div{
+    
+}
+.oddClass{
+    background-color: rgb(248, 145, 145);
+    font-size: 12px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.oddClass.special{
+    font-size: 24px;
+}
+#first{
+    color: blue;
+    font-size: 36px;
+}
+#second{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
