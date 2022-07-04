@@ -20,8 +20,23 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 16px;
 }
-
+.row1{
+  
+  display:flex;
+  justify-content: space-between;
+}
+.row2{
+  display:flex;
+  justify-content: center;
+  margin-left: 60px;
+}
+.row3{
+  display:flex;
+  justify-content: flex-start;
+  
+}
 .icon {
   color: royalblue;
   font-size: 26px;
